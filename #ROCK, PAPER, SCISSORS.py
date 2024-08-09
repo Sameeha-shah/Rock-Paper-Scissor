@@ -3,7 +3,7 @@
 import random
 
 options = ("rock", "paper", "scissors")
-running = True
+running = False
 
 while running:
 
